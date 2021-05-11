@@ -3,6 +3,7 @@ package java8.example.FunctionInterface.BiFunction;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.BiFunction;
 
 public class Java8BiFunction4 {
     public static void main(String[] args) {

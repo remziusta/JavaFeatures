@@ -1,5 +1,7 @@
 package java8.example.FunctionInterface.BiFunction;
 
+import java.util.function.BiFunction;
+
 public class Java8BiFunction3 {
     public static void main(String[] args) {
 
